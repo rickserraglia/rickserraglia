@@ -6,8 +6,14 @@
 
 <p align="center">
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
+**From Hello World I have written 1.2 million Lines of Code ✍️**
+
+
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 <!--START_CONTRIBUTIONS:readme-info-->
+**🏆 90 Contributions in year 2021**
+
+
 <!--END_CONTRIBUTIONS:readme-info-->
 </p>
 <br>
@@ -15,6 +21,15 @@
 
 <p align="center">
 <!--START_SECTION_LANGUAGE:readme-info-->
+**My 💖 languages JavaScript** 
+
+| | | | |
+| --- | --- | --- | --- |
+|JavaScript               |3 repos|             ![](https://via.placeholder.com/240x22/000000/000000?text=+)![](https://via.placeholder.com/160x22/b8b8b8/b8b8b8?=text=+)|60.0%|
+|PHP                      |1 repos|             ![](https://via.placeholder.com/80x22/000000/000000?text=+)![](https://via.placeholder.com/320x22/b8b8b8/b8b8b8?=text=+)|20.0%|
+|HTML                     |1 repos|             ![](https://via.placeholder.com/80x22/000000/000000?text=+)![](https://via.placeholder.com/320x22/b8b8b8/b8b8b8?=text=+)|20.0%|
+| | | | |
+
 <!--END_SECTION_LANGUAGE:readme-info-->
 </p>
 
@@ -30,7 +45,9 @@
 	<!-- <img src="https://komarev.com/ghpvc/?username=rickserraglia&label=visitas-perfil&color=yellow"> -->
 	<!--START_SECTION_PROFILE_VIEWS:readme-info-->
 **✨ 0 people were here!**
-	<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+
+
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
 </p>
 	
 <!--
