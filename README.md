@@ -1,7 +1,8 @@
-### Hi there 👋
 <p align="center">
-	 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=40&center=true&vCenter=true&lines=Ol%C3%A1+Mundo+%F0%9F%96%96%F0%9F%8F%BB"> 
+	 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%231964E6&size=40&center=true&vCenter=true&lines=Ol%C3%A1+Mundo+%F0%9F%96%96%F0%9F%8F%BB"> 
 </p>
+<br>
+<br>
 
 <p align="center">
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
