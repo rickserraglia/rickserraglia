@@ -11,7 +11,7 @@ Já Escrevi 1.2 million Linhas de Código ✍️
 </p>
 <p align="center">
 <!--START_CONTRIBUTIONS:readme-info-->
-🏆 90 Contribuições no Ano de 2021
+🏆 102 Contribuições no Ano de 2021
 <!--END_CONTRIBUTIONS:readme-info-->
 </p>
 <br>
@@ -42,7 +42,7 @@ My 💖 languages JavaScript
 <p align="right">
 	<!-- <img src="https://komarev.com/ghpvc/?username=rickserraglia&label=visitas-perfil&color=yellow"> -->
 	<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-✨ 3 pessoas estiveram aqui!
+✨ 0 pessoas estiveram aqui!
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 </p>
 	
