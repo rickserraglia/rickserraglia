@@ -24,9 +24,7 @@ Já Escrevi 1.2 million Linhas de Código ✍️
 	<a href="#"><img src="https://raw.githubusercontent.com/rickserraglia/-github-stats-/master/generated/languages.svg"></a>
 	<a href="#"><img src="https://raw.githubusercontent.com/rickserraglia/-github-stats-/master/generated/overview.svg"></a>
 </p>
+</br>
 <p align="right">
-	<!-- <img src="https://komarev.com/ghpvc/?username=rickserraglia&label=visitas-perfil&color=yellow"> -->
-	<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-✨ 13 pessoas estiveram aqui!
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+	<a href="#"><img src="https://raw.githubusercontent.com/rickserraglia/-github-stats-/master/generated/visits.svg"></a>
 </p>
