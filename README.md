@@ -7,8 +7,9 @@
 <p align="center">
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 Já Escrevi 1.2 million Linhas de Código ✍️ 
-
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
+</p>
+<p align="center">
 <!--START_CONTRIBUTIONS:readme-info-->
 🏆 94 Contribuições no Ano de 2021
 <!--END_CONTRIBUTIONS:readme-info-->
