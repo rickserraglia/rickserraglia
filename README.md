@@ -42,7 +42,7 @@ My 💖 languages JavaScript
 <p align="right">
 	<!-- <img src="https://komarev.com/ghpvc/?username=rickserraglia&label=visitas-perfil&color=yellow"> -->
 	<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-✨ 3 pessoas estiveram aqui!
+✨ 13 pessoas estiveram aqui!
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 </p>
 	
