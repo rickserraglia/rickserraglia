@@ -6,7 +6,8 @@
 
 <p align="center">
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-Eu Escrevi 1.2 million Linhas de Código ✍️
+Já Escrevi 1.2 million Linhas de Código ✍️ 
+
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 <!--START_CONTRIBUTIONS:readme-info-->
 🏆 94 Contribuições no Ano de 2021
@@ -18,6 +19,7 @@ Eu Escrevi 1.2 million Linhas de Código ✍️
 <p align="center">
 <!--START_SECTION_LANGUAGE:readme-info-->
 My 💖 languages JavaScript
+
 | | | | |
 | --- | --- | --- | --- |
 |JavaScript               |3 repos|             ![](https://via.placeholder.com/240x22/000000/000000?text=+)![](https://via.placeholder.com/160x22/b8b8b8/b8b8b8?=text=+)|60.0%|
