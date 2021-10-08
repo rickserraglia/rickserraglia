@@ -5,14 +5,7 @@
 <br>
 
 <p align="center">
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-Já Escrevi 1.2 million Linhas de Código ✍️
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-</p>
-<p align="center">
-<!--START_CONTRIBUTIONS:readme-info-->
-🏆 143 Contribuições no Ano de 2021
-<!--END_CONTRIBUTIONS:readme-info-->
+	<a href="#"><img src="https://raw.githubusercontent.com/rickserraglia/-github-stats-/master/generated/head-stats.svg"></a>
 </p>
 <br>
 <br>
