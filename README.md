@@ -10,6 +10,8 @@
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
+</p>
+<p align="center">
 <!--START_CONTRIBUTIONS:readme-info-->
 **🏆 94 Contributions in year 2021**
 
