@@ -5,13 +5,17 @@
 <br>
 
 <p align="center">
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 0 people were here!**
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+</p>
+<br>
+<br>
 
-
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+<p align="center">
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
 </p>
 
 <p align="center">
@@ -23,7 +27,10 @@
  	<img src="https://github-readme-stats.vercel.app/api?username=rickserraglia&count_private=true&show_icons=true&hide_border=1&title_color=1964E6&text_color=58a6ff&icon_color=58a6ff&bg_color=040506" width="400px">
 </p>
 <p align="right">
-	<img src="https://komarev.com/ghpvc/?username=rickserraglia&label=visitas-perfil&color=yellow">
+	<!-- <img src="https://komarev.com/ghpvc/?username=rickserraglia&label=visitas-perfil&color=yellow"> -->
+	<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+**✨ 0 people were here!**
+	<!--END_SECTION_PROFILE_VIEWS:readme-info-->
 </p>
 	
 <!--
