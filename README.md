@@ -5,6 +5,8 @@
 <br>
 
 <p align="center">
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 </p>
