@@ -18,11 +18,11 @@ Já Escrevi 1.2 million Linhas de Código ✍️
 <br>
 
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=rickserraglia&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=1964E6&fire=1964E6&currStreakNum=1964E6&sideNums=1964E6&sideLabels=58a6ff&dates=1964E6&currStreakLabel=58a6ff&stroke=040506">
+	<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=rickserraglia&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=1964E6&fire=1964E6&currStreakNum=1964E6&sideNums=1964E6&sideLabels=58a6ff&dates=1964E6&currStreakLabel=58a6ff&stroke=040506"></a>
 </p>
 <p align="center">
-	<img src="https://raw.githubusercontent.com/rickserraglia/-github-stats-/master/generated/languages.svg">
-	<img src="https://raw.githubusercontent.com/rickserraglia/-github-stats-/master/generated/overview.svg">
+	<a href="#"><img src="https://raw.githubusercontent.com/rickserraglia/-github-stats-/master/generated/languages.svg"></a>
+	<a href="#"><img src="https://raw.githubusercontent.com/rickserraglia/-github-stats-/master/generated/overview.svg"></a>
 </p>
 <p align="right">
 	<!-- <img src="https://komarev.com/ghpvc/?username=rickserraglia&label=visitas-perfil&color=yellow"> -->
