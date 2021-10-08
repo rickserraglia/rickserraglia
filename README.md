@@ -18,27 +18,11 @@ Já Escrevi 1.2 million Linhas de Código ✍️
 <br>
 
 <p align="center">
-<!--START_SECTION_LANGUAGE:readme-info-->
-My 💖 languages JavaScript
-
-| | | | |
-| --- | --- | --- | --- |
-|JavaScript               |3 repos|             ![](https://via.placeholder.com/200x22/000000/000000?text=+)![](https://via.placeholder.com/200x22/b8b8b8/b8b8b8?=text=+)|50.0%|
-|PHP                      |1 repos|             ![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.67%|
-|HTML                     |1 repos|             ![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.67%|
-|Python                   |1 repos|             ![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.67%|
-| | | | |
-
-<!--END_SECTION_LANGUAGE:readme-info-->
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=rickserraglia&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=1964E6&fire=1964E6&currStreakNum=1964E6&sideNums=1964E6&sideLabels=58a6ff&dates=1964E6&currStreakLabel=58a6ff&stroke=040506">
 </p>
-
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickserraglia&count_private=true&hide_border=true&title_color=1964E6&text_color=58a6ff&icon_color=58a6ff&bg_color=040506">
-</p>
-
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=rickserraglia&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=1964E6&fire=1964E6&currStreakNum=1964E6&sideNums=1964E6&sideLabels=58a6ff&dates=1964E6&currStreakLabel=58a6ff&stroke=040506" width="400px">
- 	<img src="https://github-readme-stats.vercel.app/api?username=rickserraglia&count_private=true&show_icons=true&hide_border=1&title_color=1964E6&text_color=58a6ff&icon_color=58a6ff&bg_color=040506" width="400px">
+	<img src="https://raw.githubusercontent.com/rickserraglia/-github-stats-/master/generated/languages.svg">
+	<img src="https://raw.githubusercontent.com/rickserraglia/-github-stats-/master/generated/overview.svg">
 </p>
 <p align="right">
 	<!-- <img src="https://komarev.com/ghpvc/?username=rickserraglia&label=visitas-perfil&color=yellow"> -->
@@ -46,18 +30,3 @@ My 💖 languages JavaScript
 ✨ 13 pessoas estiveram aqui!
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 </p>
-	
-<!--
-**rickserraglia/rickserraglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
