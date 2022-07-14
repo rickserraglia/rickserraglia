@@ -46,7 +46,7 @@ I'm Rick ⚡, a young corporate lawyer who's decided to do what he loves. I'm co
 
 ## Stats
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rickserraglia&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_border=true" align="center" />
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rickserraglia&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_border=true&custom_title=Weekly Programming Status" align="center" />
 </div>
 <br/>
 <div align="center">
@@ -56,7 +56,7 @@ I'm Rick ⚡, a young corporate lawyer who's decided to do what he loves. I'm co
 <br/>
 
 <p align="center">
-	<a href="#"><img src="https://gh-readme-streak.herokuapp.com?user=rickserraglia&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=1964E6&fire=1964E6&currStreakNum=1964E6&sideNums=1964E6&sideLabels=58a6ff&dates=1964E6&currStreakLabel=58a6ff&stroke=040506" width="495px" height="195px"></a>
+	<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=rickserraglia&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=1964E6&fire=1964E6&currStreakNum=1964E6&sideNums=1964E6&sideLabels=58a6ff&dates=1964E6&currStreakLabel=58a6ff&stroke=040506" width="495px" height="195px"></a>
 </p>
 <br/>
 <p align="right">
