@@ -38,9 +38,9 @@ I'm Rick ⚡, a young corporate lawyer who's decided to do what he loves. I'm co
 
 <div align="center">
 	<h3>Already studied:</h3>
-	<img src="https://skillicons.dev/icons?i=html,css,js,git,bash,mysql&perline=8" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,bash,mysql&perline=8" />
 	<h3>Studying now:</h3>
-	<img align="center" src="https://skillicons.dev/icons?i=js,ts,tailwind,nodejs,vue,react&perline=8" />
+	<img align="center" src="https://skillicons.dev/icons?i=js,ts,tailwind,styledcomponents,react,nodejs,vite&perline=8" />
 	<br/>
 </div>
 
