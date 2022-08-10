@@ -46,7 +46,7 @@ I'm Rick ⚡, a young corporate lawyer who's decided to do what he loves. I'm co
 
 ## Stats
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rickserraglia&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_border=true&custom_title=Weekly Programming Status" align="center" />
+	<img src="https://gh-readme.vercel.app/api/wakatime?username=rickserraglia&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_border=true&custom_title=Weekly Programming Status" align="center" />
 </div>
 <br/>
 <div align="center">
