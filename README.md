@@ -46,12 +46,12 @@ I'm Rick ⚡, a young corporate lawyer who's decided to do what he loves. I'm co
 
 ## Stats
 <div align="center">
-	<img src="https://gh-readme.vercel.app/api/wakatime?username=rickserraglia&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_border=true&custom_title=Weekly Programming Status" align="center" />
+	<img src="https://gh-readme.vercel.app/api/wakatime?username=rickserraglia&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_border=true" align="center" />
 </div>
 <br/>
 <div align="center">
-	<img src="https://gh-readme.vercel.app/api?username=rickserraglia&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_rank=true&line_height=28&custom_title=My GitHub Statistics" align="center" />
-	<img src="https://gh-readme.vercel.app/api/top-langs/?username=rickserraglia&exclude_repo=tools.seyph.com,url.seyph.com,web.seyph.com&layout=compact&langs_count=10&hide_border=true&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&card_width=220&custom_title=Repos Most Used Langs" align="center" />
+	<img src="https://gh-readme.vercel.app/api?username=rickserraglia&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_rank=true&line_height=28" align="center" />
+	<img src="https://gh-readme.vercel.app/api/top-langs/?username=rickserraglia&exclude_repo=tools.seyph.com,url.seyph.com,web.seyph.com&layout=compact&langs_count=10&hide_border=true&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&card_width=220" align="center" />
 </div>
 <br/>
 
