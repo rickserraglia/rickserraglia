@@ -12,39 +12,8 @@ I'm Rick ⚡, a young corporate lawyer who's decided to do what he loves. I'm co
 \
 &nbsp;
 
-- 🔥 I'm studying to become a full stack dev
-
-- 🚀 My goal is to be better than I was yesterday
-
-- 🛠️ You can see some of my projects right here
-
-- 🚧 My portfolio is under construction
-
 \
 &nbsp;
-
-<div align="center">
-	<h3>Social:</h3>
-	<a href="https://www.linkedin.com/in/serraglia/">
-		<img src="https://skillicons.dev/icons?i=linkedin" />
-	</a>
-	<a href="https://discordapp.com/users/588121343480954880/">
-		<img src="https://skillicons.dev/icons?i=discord" />
-	</a>
-	<br/>
-</div>
-
-## Studying
-
-<div align="center">
-	<h3>Already studied:</h3>
-	<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,bash,mysql,prisma&perline=8" />
-	<h3>Studying now:</h3>
-	<img align="center" src="https://skillicons.dev/icons?i=ts,tailwind,styledcomponents,sass,react,nextjs,nodejs,vite&perline=8" />
-	<h3>Soon:</h3>
-	<img align="center" src="https://skillicons.dev/icons?i=graphql,jest,nestjs,electron,mongodb,firebase,cloudflare,vercel,docker&perline=10" />
-	<br/>
-</div>
 
 ## Stats
 <div align="center">
