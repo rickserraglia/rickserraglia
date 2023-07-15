@@ -1,16 +1,8 @@
-## About
 \
 &nbsp;
 <div align="center">
 	 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=4000&color=1964E6&center=true&vCenter=true&multiline=true&width=300&height=65&lines=Hello+World+%F0%9F%91%8B">
 </div>
-
-\
-&nbsp;
-
-I'm Rick ⚡, a young corporate lawyer who's decided to do what he loves. I'm completely passionate for technology so give my all in each project, I'm always looking to next level and love to learn. I hope you like my work.
-\
-&nbsp;
 
 \
 &nbsp;
