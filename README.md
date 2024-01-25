@@ -9,12 +9,12 @@
 
 ## Stats
 <div align="center">
-	<img src="https://gh-readme.vercel.app/api/wakatime?username=rickserraglia&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_border=true" align="center" />
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rickserraglia&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_border=true" align="center" />
 </div>
 <br/>
 <div align="center">
-	<img src="https://gh-readme.vercel.app/api?username=rickserraglia&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_rank=true&line_height=28" align="center" />
-	<img src="https://gh-readme.vercel.app/api/top-langs/?username=rickserraglia&layout=compact&langs_count=10&hide_border=true&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&card_width=220" align="center" />
+	<img src="https://gh-readme.vercel.app/api?username=rickserraglia&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&hide_rank=false&line_height=28" align="center" />
+	<img src="https://gh-readme.vercel.app/api/top-langs/?username=rickserraglia&layout=compact&langs_count=10&hide_border=true&title_color=1964E6&text_color=1964E6&icon_color=58a6ff&bg_color=040506&card_width=280" align="center" />
 </div>
 <br/>
 
